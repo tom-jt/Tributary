@@ -1,6 +1,6 @@
 # Tributary Library & API
 
-This library and API is based on a heavily simplified version of the event streaming infrastructure Apache Kafka.
+A distributed event streaming platform library and API inspired by Apache Kafka.
 
 ## Tributary Cluster and Topics
 
